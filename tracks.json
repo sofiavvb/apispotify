@@ -1,6 +1,6 @@
 {
     "THE TORTURED POETS DEPARTMENT THE ANTHOLOGY": {
-        "href": "https://api.spotify.com/v1/albums/5H7ixXZfsNMGbIE5OBSpcb/tracks?offset=0&limit=20&market=US",
+        "href": "https://api.spotify.com/v1/albums/5H7ixXZfsNMGbIE5OBSpcb/tracks?offset=0&limit=50&market=US",
         "items": [
             {
                 "artists": [
@@ -601,16 +601,335 @@
                 "track_number": 20,
                 "type": "track",
                 "uri": "spotify:track:1rmEsOezwf2lmIZTMAO5Ag"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 238706,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5Bedn0svl0ZD7RGmJkmKKw"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5Bedn0svl0ZD7RGmJkmKKw",
+                "id": "5Bedn0svl0ZD7RGmJkmKKw",
+                "is_local": false,
+                "is_playable": true,
+                "name": "How Did It End?",
+                "preview_url": null,
+                "track_number": 21,
+                "type": "track",
+                "uri": "spotify:track:5Bedn0svl0ZD7RGmJkmKKw"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 228800,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7Mts0OfPorF4iwOomvfqn1",
+                "id": "7Mts0OfPorF4iwOomvfqn1",
+                "is_local": false,
+                "is_playable": true,
+                "name": "So High School",
+                "preview_url": null,
+                "track_number": 22,
+                "type": "track",
+                "uri": "spotify:track:7Mts0OfPorF4iwOomvfqn1"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 243875,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3hlGuz3loYoLfI3bpwieWq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3hlGuz3loYoLfI3bpwieWq",
+                "id": "3hlGuz3loYoLfI3bpwieWq",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Hate It Here",
+                "preview_url": null,
+                "track_number": 23,
+                "type": "track",
+                "uri": "spotify:track:3hlGuz3loYoLfI3bpwieWq"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 263817,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7ogK4lJDVDMU6A6vYR5rvD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7ogK4lJDVDMU6A6vYR5rvD",
+                "id": "7ogK4lJDVDMU6A6vYR5rvD",
+                "is_local": false,
+                "is_playable": true,
+                "name": "thanK you aIMee",
+                "preview_url": null,
+                "track_number": 24,
+                "type": "track",
+                "uri": "spotify:track:7ogK4lJDVDMU6A6vYR5rvD"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 131907,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1Zai5UJ2di3qEuR2HeT2s8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1Zai5UJ2di3qEuR2HeT2s8",
+                "id": "1Zai5UJ2di3qEuR2HeT2s8",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Look in People's Windows",
+                "preview_url": null,
+                "track_number": 25,
+                "type": "track",
+                "uri": "spotify:track:1Zai5UJ2di3qEuR2HeT2s8"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 249807,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/18WFFUIsewmA8g31KAeo3e"
+                },
+                "href": "https://api.spotify.com/v1/tracks/18WFFUIsewmA8g31KAeo3e",
+                "id": "18WFFUIsewmA8g31KAeo3e",
+                "is_local": false,
+                "is_playable": true,
+                "name": "The Prophecy",
+                "preview_url": null,
+                "track_number": 26,
+                "type": "track",
+                "uri": "spotify:track:18WFFUIsewmA8g31KAeo3e"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 240205,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0g4fMVo4JjwnIpTfFfLdxS"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0g4fMVo4JjwnIpTfFfLdxS",
+                "id": "0g4fMVo4JjwnIpTfFfLdxS",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Cassandra",
+                "preview_url": null,
+                "track_number": 27,
+                "type": "track",
+                "uri": "spotify:track:0g4fMVo4JjwnIpTfFfLdxS"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 283957,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3zMDGj4D8ogaYgAIZPeU7S"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3zMDGj4D8ogaYgAIZPeU7S",
+                "id": "3zMDGj4D8ogaYgAIZPeU7S",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Peter",
+                "preview_url": null,
+                "track_number": 28,
+                "type": "track",
+                "uri": "spotify:track:3zMDGj4D8ogaYgAIZPeU7S"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 238241,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2913xXOVAIDAqxzV2g4VcU"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2913xXOVAIDAqxzV2g4VcU",
+                "id": "2913xXOVAIDAqxzV2g4VcU",
+                "is_local": false,
+                "is_playable": true,
+                "name": "The Bolter",
+                "preview_url": null,
+                "track_number": 29,
+                "type": "track",
+                "uri": "spotify:track:2913xXOVAIDAqxzV2g4VcU"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 240893,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2CnjDMdpRjlWv04Xk3s6MW"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2CnjDMdpRjlWv04Xk3s6MW",
+                "id": "2CnjDMdpRjlWv04Xk3s6MW",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Robin",
+                "preview_url": null,
+                "track_number": 30,
+                "type": "track",
+                "uri": "spotify:track:2CnjDMdpRjlWv04Xk3s6MW"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 224743,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1DTRUYVd8rYpla9hhVVwjo"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1DTRUYVd8rYpla9hhVVwjo",
+                "id": "1DTRUYVd8rYpla9hhVVwjo",
+                "is_local": false,
+                "is_playable": true,
+                "name": "The Manuscript",
+                "preview_url": null,
+                "track_number": 31,
+                "type": "track",
+                "uri": "spotify:track:1DTRUYVd8rYpla9hhVVwjo"
             }
         ],
-        "limit": 20,
-        "next": "https://api.spotify.com/v1/albums/5H7ixXZfsNMGbIE5OBSpcb/tracks?offset=20&limit=20&market=US",
+        "limit": 50,
+        "next": null,
         "offset": 0,
         "previous": null,
         "total": 31
     },
     "1989 (Taylor's Version) [Deluxe]": {
-        "href": "https://api.spotify.com/v1/albums/1o59UpKw81iHR0HPiSkJR0/tracks?offset=0&limit=20&market=US",
+        "href": "https://api.spotify.com/v1/albums/1o59UpKw81iHR0HPiSkJR0/tracks?offset=0&limit=50&market=US",
         "items": [
             {
                 "artists": [
@@ -1191,16 +1510,84 @@
                 "track_number": 20,
                 "type": "track",
                 "uri": "spotify:track:6M9ppdfFjR1AbpUl3Y8DcV"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 229477,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6IG3sQ8s9nfk6TUlVzRhbN"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6IG3sQ8s9nfk6TUlVzRhbN",
+                "id": "6IG3sQ8s9nfk6TUlVzRhbN",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Is It Over Now? (Taylor's Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 21,
+                "type": "track",
+                "uri": "spotify:track:6IG3sQ8s9nfk6TUlVzRhbN"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+                        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+                        "name": "Kendrick Lamar",
+                        "type": "artist",
+                        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 199773,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6qAcApH8obo8eqatCKUHd9"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6qAcApH8obo8eqatCKUHd9",
+                "id": "6qAcApH8obo8eqatCKUHd9",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Bad Blood (feat. Kendrick Lamar) (Taylor's Version)",
+                "preview_url": null,
+                "track_number": 22,
+                "type": "track",
+                "uri": "spotify:track:6qAcApH8obo8eqatCKUHd9"
             }
         ],
-        "limit": 20,
-        "next": "https://api.spotify.com/v1/albums/1o59UpKw81iHR0HPiSkJR0/tracks?offset=20&limit=20&market=US",
+        "limit": 50,
+        "next": null,
         "offset": 0,
         "previous": null,
         "total": 22
     },
     "Speak Now (Taylor's Version)": {
-        "href": "https://api.spotify.com/v1/albums/5AEDGbliTTfjOB8TSm1sxt/tracks?offset=0&limit=20&market=US",
+        "href": "https://api.spotify.com/v1/albums/5AEDGbliTTfjOB8TSm1sxt/tracks?offset=0&limit=50&market=US",
         "items": [
             {
                 "artists": [
@@ -1801,16 +2188,74 @@
                 "track_number": 20,
                 "type": "track",
                 "uri": "spotify:track:4ABYxlb92WBIjHu7TIKmml"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 311765,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4s8BIKx4Zh6ryAEz8RTlaU"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4s8BIKx4Zh6ryAEz8RTlaU",
+                "id": "4s8BIKx4Zh6ryAEz8RTlaU",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Foolish One (Taylor\u2019s Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 21,
+                "type": "track",
+                "uri": "spotify:track:4s8BIKx4Zh6ryAEz8RTlaU"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 321396,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1HCdems7PQZRj42QDWLA0A"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1HCdems7PQZRj42QDWLA0A",
+                "id": "1HCdems7PQZRj42QDWLA0A",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Timeless (Taylor\u2019s Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 22,
+                "type": "track",
+                "uri": "spotify:track:1HCdems7PQZRj42QDWLA0A"
             }
         ],
-        "limit": 20,
-        "next": "https://api.spotify.com/v1/albums/5AEDGbliTTfjOB8TSm1sxt/tracks?offset=20&limit=20&market=US",
+        "limit": 50,
+        "next": null,
         "offset": 0,
         "previous": null,
         "total": 22
     },
     "Midnights (The Til Dawn Edition)": {
-        "href": "https://api.spotify.com/v1/albums/1fnJ7k0bllNfL1kVdNVW1A/tracks?offset=0&limit=20&market=US",
+        "href": "https://api.spotify.com/v1/albums/1fnJ7k0bllNfL1kVdNVW1A/tracks?offset=0&limit=50&market=US",
         "items": [
             {
                 "artists": [
@@ -2401,16 +2846,123 @@
                 "track_number": 20,
                 "type": "track",
                 "uri": "spotify:track:10GRRCR5fctuOF4GFmATJI"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 234466,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3xYJScVfxByb61dYHTwiby"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3xYJScVfxByb61dYHTwiby",
+                "id": "3xYJScVfxByb61dYHTwiby",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Hits Different",
+                "preview_url": null,
+                "track_number": 21,
+                "type": "track",
+                "uri": "spotify:track:3xYJScVfxByb61dYHTwiby"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+                        "id": "00FQb4jTyendYWaN8pK0wa",
+                        "name": "Lana Del Rey",
+                        "type": "artist",
+                        "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 229942,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4zmKGsrXjLmljb5fTaBTot"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4zmKGsrXjLmljb5fTaBTot",
+                "id": "4zmKGsrXjLmljb5fTaBTot",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Snow On The Beach (feat. More Lana Del Rey)",
+                "preview_url": null,
+                "track_number": 22,
+                "type": "track",
+                "uri": "spotify:track:4zmKGsrXjLmljb5fTaBTot"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3LZZPxNDGDFVSIPqf4JuEf",
+                        "id": "3LZZPxNDGDFVSIPqf4JuEf",
+                        "name": "Ice Spice",
+                        "type": "artist",
+                        "uri": "spotify:artist:3LZZPxNDGDFVSIPqf4JuEf"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 201493,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4i6cwNY6oIUU2XZxPIw82Y",
+                "id": "4i6cwNY6oIUU2XZxPIw82Y",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Karma (feat. Ice Spice)",
+                "preview_url": null,
+                "track_number": 23,
+                "type": "track",
+                "uri": "spotify:track:4i6cwNY6oIUU2XZxPIw82Y"
             }
         ],
-        "limit": 20,
-        "next": "https://api.spotify.com/v1/albums/1fnJ7k0bllNfL1kVdNVW1A/tracks?offset=20&limit=20&market=US",
+        "limit": 50,
+        "next": null,
         "offset": 0,
         "previous": null,
         "total": 23
     },
     "Red (Taylor's Version)": {
-        "href": "https://api.spotify.com/v1/albums/6kZ42qRrzov54LcAk4onW9/tracks?offset=0&limit=20&market=US",
+        "href": "https://api.spotify.com/v1/albums/6kZ42qRrzov54LcAk4onW9/tracks?offset=0&limit=50&market=US",
         "items": [
             {
                 "artists": [
@@ -3011,16 +3563,336 @@
                 "track_number": 20,
                 "type": "track",
                 "uri": "spotify:track:5jAIouBES8LWMiriuNq170"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 264253,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7nWui6jiMM2m9qFmET1Mtj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7nWui6jiMM2m9qFmET1Mtj",
+                "id": "7nWui6jiMM2m9qFmET1Mtj",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Ronan (Taylor's Version)",
+                "preview_url": null,
+                "track_number": 21,
+                "type": "track",
+                "uri": "spotify:track:7nWui6jiMM2m9qFmET1Mtj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 297013,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4OmFmE0fzcMG6g0Y8p4eSD"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4OmFmE0fzcMG6g0Y8p4eSD",
+                "id": "4OmFmE0fzcMG6g0Y8p4eSD",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Better Man (Taylor's Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 22,
+                "type": "track",
+                "uri": "spotify:track:4OmFmE0fzcMG6g0Y8p4eSD"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+                        "id": "1r1uxoy19fzMxunt3ONAkG",
+                        "name": "Phoebe Bridgers",
+                        "type": "artist",
+                        "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 258812,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/01K4zKU104LyJ8gMb7227B"
+                },
+                "href": "https://api.spotify.com/v1/tracks/01K4zKU104LyJ8gMb7227B",
+                "id": "01K4zKU104LyJ8gMb7227B",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Nothing New (feat. Phoebe Bridgers) (Taylor\u2019s Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 23,
+                "type": "track",
+                "uri": "spotify:track:01K4zKU104LyJ8gMb7227B"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 224240,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0v4z1tuZvn6LGknom9Qx7d"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0v4z1tuZvn6LGknom9Qx7d",
+                "id": "0v4z1tuZvn6LGknom9Qx7d",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Babe (Taylor's Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 24,
+                "type": "track",
+                "uri": "spotify:track:0v4z1tuZvn6LGknom9Qx7d"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 225960,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3z6XUommYDWPHeFhmhhT6j"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3z6XUommYDWPHeFhmhhT6j",
+                "id": "3z6XUommYDWPHeFhmhhT6j",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Message In A Bottle (Taylor's Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 25,
+                "type": "track",
+                "uri": "spotify:track:3z6XUommYDWPHeFhmhhT6j"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4YLtscXsxbVgi031ovDDdh",
+                        "id": "4YLtscXsxbVgi031ovDDdh",
+                        "name": "Chris Stapleton",
+                        "type": "artist",
+                        "uri": "spotify:artist:4YLtscXsxbVgi031ovDDdh"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 285106,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4CkgMiMqZ5JzW9iYXSTMTL"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4CkgMiMqZ5JzW9iYXSTMTL",
+                "id": "4CkgMiMqZ5JzW9iYXSTMTL",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Bet You Think About Me (feat. Chris Stapleton) (Taylor\u2019s Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 26,
+                "type": "track",
+                "uri": "spotify:track:4CkgMiMqZ5JzW9iYXSTMTL"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 263533,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3oGVx9RBmiYGv5ZCecWLkx"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3oGVx9RBmiYGv5ZCecWLkx",
+                "id": "3oGVx9RBmiYGv5ZCecWLkx",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Forever Winter (Taylor's Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 27,
+                "type": "track",
+                "uri": "spotify:track:3oGVx9RBmiYGv5ZCecWLkx"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+                        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+                        "name": "Ed Sheeran",
+                        "type": "artist",
+                        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 240226,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4IQkfUsrwXol38VV3U7t7T"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4IQkfUsrwXol38VV3U7t7T",
+                "id": "4IQkfUsrwXol38VV3U7t7T",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Run (feat. Ed Sheeran) (Taylor\u2019s Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 28,
+                "type": "track",
+                "uri": "spotify:track:4IQkfUsrwXol38VV3U7t7T"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 200280,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/6pYNq0ZwpPVazKzsqpf0G8"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6pYNq0ZwpPVazKzsqpf0G8",
+                "id": "6pYNq0ZwpPVazKzsqpf0G8",
+                "is_local": false,
+                "is_playable": true,
+                "name": "The Very First Night (Taylor's Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 29,
+                "type": "track",
+                "uri": "spotify:track:6pYNq0ZwpPVazKzsqpf0G8"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 613026,
+                "explicit": true,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5enxwA8aAbwZbf5qCHORXi"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5enxwA8aAbwZbf5qCHORXi",
+                "id": "5enxwA8aAbwZbf5qCHORXi",
+                "is_local": false,
+                "is_playable": true,
+                "name": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 30,
+                "type": "track",
+                "uri": "spotify:track:5enxwA8aAbwZbf5qCHORXi"
             }
         ],
-        "limit": 20,
-        "next": "https://api.spotify.com/v1/albums/6kZ42qRrzov54LcAk4onW9/tracks?offset=20&limit=20&market=US",
+        "limit": 50,
+        "next": null,
         "offset": 0,
         "previous": null,
         "total": 30
     },
     "Fearless (Taylor's Version)": {
-        "href": "https://api.spotify.com/v1/albums/4hDok0OAJd57SGIT8xuWJH/tracks?offset=0&limit=20&market=US",
+        "href": "https://api.spotify.com/v1/albums/4hDok0OAJd57SGIT8xuWJH/tracks?offset=0&limit=50&market=US",
         "items": [
             {
                 "artists": [
@@ -3611,16 +4483,210 @@
                 "track_number": 20,
                 "type": "track",
                 "uri": "spotify:track:2JoJrsEV15OzbijS47lids"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6WY7D3jk8zTrHtmkqqo5GI",
+                        "id": "6WY7D3jk8zTrHtmkqqo5GI",
+                        "name": "Maren Morris",
+                        "type": "artist",
+                        "uri": "spotify:artist:6WY7D3jk8zTrHtmkqqo5GI"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 220839,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4CHpVfAhuxNJ3ibExe6kxO"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4CHpVfAhuxNJ3ibExe6kxO",
+                "id": "4CHpVfAhuxNJ3ibExe6kxO",
+                "is_local": false,
+                "is_playable": true,
+                "name": "You All Over Me (feat. Maren Morris) (Taylor\u2019s Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 21,
+                "type": "track",
+                "uri": "spotify:track:4CHpVfAhuxNJ3ibExe6kxO"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 277591,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2CYVETnhM9aytqrazYYwrK"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2CYVETnhM9aytqrazYYwrK",
+                "id": "2CYVETnhM9aytqrazYYwrK",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Mr. Perfectly Fine (Taylor\u2019s Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 22,
+                "type": "track",
+                "uri": "spotify:track:2CYVETnhM9aytqrazYYwrK"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 244236,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/34V9RiEPe8MNdU32qJsJa1"
+                },
+                "href": "https://api.spotify.com/v1/tracks/34V9RiEPe8MNdU32qJsJa1",
+                "id": "34V9RiEPe8MNdU32qJsJa1",
+                "is_local": false,
+                "is_playable": true,
+                "name": "We Were Happy (Taylor\u2019s Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 23,
+                "type": "track",
+                "uri": "spotify:track:34V9RiEPe8MNdU32qJsJa1"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0u2FHSq3ln94y5Q57xazwf",
+                        "id": "0u2FHSq3ln94y5Q57xazwf",
+                        "name": "Keith Urban",
+                        "type": "artist",
+                        "uri": "spotify:artist:0u2FHSq3ln94y5Q57xazwf"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 189495,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7eResoqEJJAVTkQYSqvO3P"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7eResoqEJJAVTkQYSqvO3P",
+                "id": "7eResoqEJJAVTkQYSqvO3P",
+                "is_local": false,
+                "is_playable": true,
+                "name": "That\u2019s When (feat. Keith Urban) (Taylor\u2019s Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 24,
+                "type": "track",
+                "uri": "spotify:track:7eResoqEJJAVTkQYSqvO3P"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 208608,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4uuEGH5SVuzkkSFjo2DEiY"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4uuEGH5SVuzkkSFjo2DEiY",
+                "id": "4uuEGH5SVuzkkSFjo2DEiY",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Don\u2019t You (Taylor\u2019s Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 25,
+                "type": "track",
+                "uri": "spotify:track:4uuEGH5SVuzkkSFjo2DEiY"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 242157,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4qUijfYU8EoIWiY6oSyrgT"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4qUijfYU8EoIWiY6oSyrgT",
+                "id": "4qUijfYU8EoIWiY6oSyrgT",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Bye Bye Baby (Taylor\u2019s Version) (From The Vault)",
+                "preview_url": null,
+                "track_number": 26,
+                "type": "track",
+                "uri": "spotify:track:4qUijfYU8EoIWiY6oSyrgT"
             }
         ],
-        "limit": 20,
-        "next": "https://api.spotify.com/v1/albums/4hDok0OAJd57SGIT8xuWJH/tracks?offset=20&limit=20&market=US",
+        "limit": 50,
+        "next": null,
         "offset": 0,
         "previous": null,
         "total": 26
     },
     "evermore (deluxe version)": {
-        "href": "https://api.spotify.com/v1/albums/6AORtDjduMM3bupSWzbTSG/tracks?offset=0&limit=20&market=US",
+        "href": "https://api.spotify.com/v1/albums/6AORtDjduMM3bupSWzbTSG/tracks?offset=0&limit=50&market=US",
         "items": [
             {
                 "artists": [
@@ -4146,14 +5212,14 @@
                 "uri": "spotify:track:1kdWw77ZpYOkhxeuhzU1j6"
             }
         ],
-        "limit": 20,
+        "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
         "total": 17
     },
     "folklore (deluxe version)": {
-        "href": "https://api.spotify.com/v1/albums/1pzvBxYgT6OVwJLtHkrdQK/tracks?offset=0&limit=20&market=US",
+        "href": "https://api.spotify.com/v1/albums/1pzvBxYgT6OVwJLtHkrdQK/tracks?offset=0&limit=50&market=US",
         "items": [
             {
                 "artists": [
@@ -4659,14 +5725,14 @@
                 "uri": "spotify:track:0eFQWVz0qIxDOvhLpZ40P7"
             }
         ],
-        "limit": 20,
+        "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
         "total": 17
     },
     "Lover": {
-        "href": "https://api.spotify.com/v1/albums/1NAmidJlEaVgA3MpcPFYGq/tracks?offset=0&limit=20&market=US",
+        "href": "https://api.spotify.com/v1/albums/1NAmidJlEaVgA3MpcPFYGq/tracks?offset=0&limit=50&market=US",
         "items": [
             {
                 "artists": [
@@ -5221,14 +6287,14 @@
                 "uri": "spotify:track:1fzAuUVbzlhZ1lJAx9PtY6"
             }
         ],
-        "limit": 20,
+        "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
         "total": 18
     },
     "reputation": {
-        "href": "https://api.spotify.com/v1/albums/6DEjYFkNZh67HP7R9PSZvv/tracks?offset=0&limit=20&market=US",
+        "href": "https://api.spotify.com/v1/albums/6DEjYFkNZh67HP7R9PSZvv/tracks?offset=0&limit=50&market=US",
         "items": [
             {
                 "artists": [
@@ -5686,14 +6752,14 @@
                 "uri": "spotify:track:7F5oktn5YOsR9eR5YsFtqb"
             }
         ],
-        "limit": 20,
+        "limit": 50,
         "next": null,
         "offset": 0,
         "previous": null,
         "total": 15
     },
     "Taylor Swift (Deluxe)": {
-        "href": "https://api.spotify.com/v1/albums/7300PGoJaqoWgNvlBkv7Gh/tracks?offset=0&limit=20&market=US",
+        "href": "https://api.spotify.com/v1/albums/7300PGoJaqoWgNvlBkv7Gh/tracks?offset=0&limit=50&market=US",
         "items": [
             {
                 "artists": [
@@ -6274,10 +7340,416 @@
                 "track_number": 20,
                 "type": "track",
                 "uri": "spotify:track:3Jfup7oEasGJGsngTMADTl"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3mGCLimuzOdod4Lnegny4d",
+                        "id": "3mGCLimuzOdod4Lnegny4d",
+                        "name": "Twinkle Twinkle Little Rock Star",
+                        "type": "artist",
+                        "uri": "spotify:artist:3mGCLimuzOdod4Lnegny4d"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 308437,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/54NHSFOKeeqHQVQ1TXukAj"
+                },
+                "href": "https://api.spotify.com/v1/tracks/54NHSFOKeeqHQVQ1TXukAj",
+                "id": "54NHSFOKeeqHQVQ1TXukAj",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Delicate",
+                "preview_url": "https://p.scdn.co/mp3-preview/97622c9716b51fdcae6b3e4186b302faed320c95?cid=2bb6213f30444133867808e6a8349435",
+                "track_number": 21,
+                "type": "track",
+                "uri": "spotify:track:54NHSFOKeeqHQVQ1TXukAj"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3mGCLimuzOdod4Lnegny4d",
+                        "id": "3mGCLimuzOdod4Lnegny4d",
+                        "name": "Twinkle Twinkle Little Rock Star",
+                        "type": "artist",
+                        "uri": "spotify:artist:3mGCLimuzOdod4Lnegny4d"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 237600,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1YW6Rv4lON23hzaE5xWCES"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1YW6Rv4lON23hzaE5xWCES",
+                "id": "1YW6Rv4lON23hzaE5xWCES",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Look What You Made Me Do",
+                "preview_url": "https://p.scdn.co/mp3-preview/80687f80789c139c7175253a2e11bac328a48d11?cid=2bb6213f30444133867808e6a8349435",
+                "track_number": 22,
+                "type": "track",
+                "uri": "spotify:track:1YW6Rv4lON23hzaE5xWCES"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3mGCLimuzOdod4Lnegny4d",
+                        "id": "3mGCLimuzOdod4Lnegny4d",
+                        "name": "Twinkle Twinkle Little Rock Star",
+                        "type": "artist",
+                        "uri": "spotify:artist:3mGCLimuzOdod4Lnegny4d"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 250985,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/67Kvriv87IPpzd6ZTyRAJV"
+                },
+                "href": "https://api.spotify.com/v1/tracks/67Kvriv87IPpzd6ZTyRAJV",
+                "id": "67Kvriv87IPpzd6ZTyRAJV",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Don't Wanna Live Forever",
+                "preview_url": "https://p.scdn.co/mp3-preview/56b4a9d75e37a3bdc918d9c1c0b94a15bae065ad?cid=2bb6213f30444133867808e6a8349435",
+                "track_number": 23,
+                "type": "track",
+                "uri": "spotify:track:67Kvriv87IPpzd6ZTyRAJV"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3mGCLimuzOdod4Lnegny4d",
+                        "id": "3mGCLimuzOdod4Lnegny4d",
+                        "name": "Twinkle Twinkle Little Rock Star",
+                        "type": "artist",
+                        "uri": "spotify:artist:3mGCLimuzOdod4Lnegny4d"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 223636,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7IjQxhvuJu47KkrFyzpGBa"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7IjQxhvuJu47KkrFyzpGBa",
+                "id": "7IjQxhvuJu47KkrFyzpGBa",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Knew You Were Trouble.",
+                "preview_url": "https://p.scdn.co/mp3-preview/11e638ffb4403b1d09b8188fc3b97e40d7454d81?cid=2bb6213f30444133867808e6a8349435",
+                "track_number": 24,
+                "type": "track",
+                "uri": "spotify:track:7IjQxhvuJu47KkrFyzpGBa"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3mGCLimuzOdod4Lnegny4d",
+                        "id": "3mGCLimuzOdod4Lnegny4d",
+                        "name": "Twinkle Twinkle Little Rock Star",
+                        "type": "artist",
+                        "uri": "spotify:artist:3mGCLimuzOdod4Lnegny4d"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 232075,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/18AKDOVpKUqj2zNLXIgJe5"
+                },
+                "href": "https://api.spotify.com/v1/tracks/18AKDOVpKUqj2zNLXIgJe5",
+                "id": "18AKDOVpKUqj2zNLXIgJe5",
+                "is_local": false,
+                "is_playable": true,
+                "name": "We Are Never Ever Getting Back Together",
+                "preview_url": "https://p.scdn.co/mp3-preview/c69dfd89ca4c3b0bbcb085a52c41b90800fcb335?cid=2bb6213f30444133867808e6a8349435",
+                "track_number": 25,
+                "type": "track",
+                "uri": "spotify:track:18AKDOVpKUqj2zNLXIgJe5"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3mGCLimuzOdod4Lnegny4d",
+                        "id": "3mGCLimuzOdod4Lnegny4d",
+                        "name": "Twinkle Twinkle Little Rock Star",
+                        "type": "artist",
+                        "uri": "spotify:artist:3mGCLimuzOdod4Lnegny4d"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 218437,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4lD7SnTvMoJhr4A7HZlxC5"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4lD7SnTvMoJhr4A7HZlxC5",
+                "id": "4lD7SnTvMoJhr4A7HZlxC5",
+                "is_local": false,
+                "is_playable": true,
+                "name": "I Can See You",
+                "preview_url": "https://p.scdn.co/mp3-preview/d434d8f24db014016dec4a119cf1c1c2ce7d5b08?cid=2bb6213f30444133867808e6a8349435",
+                "track_number": 26,
+                "type": "track",
+                "uri": "spotify:track:4lD7SnTvMoJhr4A7HZlxC5"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3mGCLimuzOdod4Lnegny4d",
+                        "id": "3mGCLimuzOdod4Lnegny4d",
+                        "name": "Twinkle Twinkle Little Rock Star",
+                        "type": "artist",
+                        "uri": "spotify:artist:3mGCLimuzOdod4Lnegny4d"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 246826,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2D7IO5fT0e537uNJDIOJKl"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2D7IO5fT0e537uNJDIOJKl",
+                "id": "2D7IO5fT0e537uNJDIOJKl",
+                "is_local": false,
+                "is_playable": true,
+                "name": "You Belong With Me",
+                "preview_url": "https://p.scdn.co/mp3-preview/8370f196d8a407758041c2ace66e81cea4abba0b?cid=2bb6213f30444133867808e6a8349435",
+                "track_number": 27,
+                "type": "track",
+                "uri": "spotify:track:2D7IO5fT0e537uNJDIOJKl"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3mGCLimuzOdod4Lnegny4d",
+                        "id": "3mGCLimuzOdod4Lnegny4d",
+                        "name": "Twinkle Twinkle Little Rock Star",
+                        "type": "artist",
+                        "uri": "spotify:artist:3mGCLimuzOdod4Lnegny4d"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 248746,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5g6PTtDiZfldHDeWkQKSVb"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5g6PTtDiZfldHDeWkQKSVb",
+                "id": "5g6PTtDiZfldHDeWkQKSVb",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Our Song",
+                "preview_url": "https://p.scdn.co/mp3-preview/b07a2883061816ba91d64e2550075291fa787b4a?cid=2bb6213f30444133867808e6a8349435",
+                "track_number": 28,
+                "type": "track",
+                "uri": "spotify:track:5g6PTtDiZfldHDeWkQKSVb"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3mGCLimuzOdod4Lnegny4d",
+                        "id": "3mGCLimuzOdod4Lnegny4d",
+                        "name": "Twinkle Twinkle Little Rock Star",
+                        "type": "artist",
+                        "uri": "spotify:artist:3mGCLimuzOdod4Lnegny4d"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 247306,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4rqjERaZONM2cOfPWSBgTO"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4rqjERaZONM2cOfPWSBgTO",
+                "id": "4rqjERaZONM2cOfPWSBgTO",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Sparks Fly",
+                "preview_url": "https://p.scdn.co/mp3-preview/0ee27cfe9c84851180fdd9dcde686435db8726f2?cid=2bb6213f30444133867808e6a8349435",
+                "track_number": 29,
+                "type": "track",
+                "uri": "spotify:track:4rqjERaZONM2cOfPWSBgTO"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3mGCLimuzOdod4Lnegny4d",
+                        "id": "3mGCLimuzOdod4Lnegny4d",
+                        "name": "Twinkle Twinkle Little Rock Star",
+                        "type": "artist",
+                        "uri": "spotify:artist:3mGCLimuzOdod4Lnegny4d"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 249933,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1yic6PbvbeFQ1f1UuGoXc2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1yic6PbvbeFQ1f1UuGoXc2",
+                "id": "1yic6PbvbeFQ1f1UuGoXc2",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Back To December",
+                "preview_url": "https://p.scdn.co/mp3-preview/c74a886ab164f7bd6b3dbb5b3a362e45020f161d?cid=2bb6213f30444133867808e6a8349435",
+                "track_number": 30,
+                "type": "track",
+                "uri": "spotify:track:1yic6PbvbeFQ1f1UuGoXc2"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3mGCLimuzOdod4Lnegny4d",
+                        "id": "3mGCLimuzOdod4Lnegny4d",
+                        "name": "Twinkle Twinkle Little Rock Star",
+                        "type": "artist",
+                        "uri": "spotify:artist:3mGCLimuzOdod4Lnegny4d"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 242160,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2uwAIXZ3jlL2pV4Sk5pKnR"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2uwAIXZ3jlL2pV4Sk5pKnR",
+                "id": "2uwAIXZ3jlL2pV4Sk5pKnR",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Love Story",
+                "preview_url": "https://p.scdn.co/mp3-preview/6b3b1c39e2c26704031a69f3cc6494afe61e8f12?cid=2bb6213f30444133867808e6a8349435",
+                "track_number": 31,
+                "type": "track",
+                "uri": "spotify:track:2uwAIXZ3jlL2pV4Sk5pKnR"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3mGCLimuzOdod4Lnegny4d",
+                        "id": "3mGCLimuzOdod4Lnegny4d",
+                        "name": "Twinkle Twinkle Little Rock Star",
+                        "type": "artist",
+                        "uri": "spotify:artist:3mGCLimuzOdod4Lnegny4d"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 245600,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3Q5k8Pq9sgt1vTsVor6Qx7"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3Q5k8Pq9sgt1vTsVor6Qx7",
+                "id": "3Q5k8Pq9sgt1vTsVor6Qx7",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Mine",
+                "preview_url": "https://p.scdn.co/mp3-preview/acab2807bea204200203e2d44fdbdfa39cf3c241?cid=2bb6213f30444133867808e6a8349435",
+                "track_number": 32,
+                "type": "track",
+                "uri": "spotify:track:3Q5k8Pq9sgt1vTsVor6Qx7"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3mGCLimuzOdod4Lnegny4d",
+                        "id": "3mGCLimuzOdod4Lnegny4d",
+                        "name": "Twinkle Twinkle Little Rock Star",
+                        "type": "artist",
+                        "uri": "spotify:artist:3mGCLimuzOdod4Lnegny4d"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 241226,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3dtTIx9l79dnlnveEhDaH5"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3dtTIx9l79dnlnveEhDaH5",
+                "id": "3dtTIx9l79dnlnveEhDaH5",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Teardrops On My Guitar",
+                "preview_url": "https://p.scdn.co/mp3-preview/b67af3d042bc13572ad53a6ad8f74ce6c419bc0e?cid=2bb6213f30444133867808e6a8349435",
+                "track_number": 33,
+                "type": "track",
+                "uri": "spotify:track:3dtTIx9l79dnlnveEhDaH5"
+            },
+            {
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3mGCLimuzOdod4Lnegny4d"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3mGCLimuzOdod4Lnegny4d",
+                        "id": "3mGCLimuzOdod4Lnegny4d",
+                        "name": "Twinkle Twinkle Little Rock Star",
+                        "type": "artist",
+                        "uri": "spotify:artist:3mGCLimuzOdod4Lnegny4d"
+                    }
+                ],
+                "disc_number": 1,
+                "duration_ms": 277500,
+                "explicit": false,
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/3jdq7QOCUGuk9tUTtKJuIc"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3jdq7QOCUGuk9tUTtKJuIc",
+                "id": "3jdq7QOCUGuk9tUTtKJuIc",
+                "is_local": false,
+                "is_playable": true,
+                "name": "Christmas Tree Farm",
+                "preview_url": "https://p.scdn.co/mp3-preview/b31a147d39230fa142bd60d13629dc9ad9cd51ad?cid=2bb6213f30444133867808e6a8349435",
+                "track_number": 34,
+                "type": "track",
+                "uri": "spotify:track:3jdq7QOCUGuk9tUTtKJuIc"
             }
         ],
-        "limit": 20,
-        "next": "https://api.spotify.com/v1/albums/7300PGoJaqoWgNvlBkv7Gh/tracks?offset=20&limit=20&market=US",
+        "limit": 50,
+        "next": null,
         "offset": 0,
         "previous": null,
         "total": 34
